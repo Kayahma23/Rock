@@ -1,0 +1,24 @@
+
+.container {
+    text-align: center;
+}
+
+.choice {
+    border: 1px solid;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+}
+#computerchoice{
+    color:	yellow;
+}
+#winner{
+    color:	yellow;
+}
+strong{
+    color:#87ceeb;
+}
+body{
+    background-image: url("https://www.fg-a.com/christmas/ctree_3a.gif");
+}
